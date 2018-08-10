@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+
+## Help this project
+
+If you got luck and find this project, you can make improve it by fixing issues. I'll be totaly glad 🎉
+
+
 ## Build Setup
 
 ``` bash
